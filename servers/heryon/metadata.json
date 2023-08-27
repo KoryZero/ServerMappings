@@ -1,0 +1,39 @@
+{
+    "id": "Heryon",
+    "name": "Heryon Network",
+    "store": "https://store.heryon.net/",
+    "addresses": [
+        "play.heryon.net",
+        "mc.heryon.net",
+        "heryon.net"
+    ],
+    "primaryAddress": "heryon.net",
+    "primaryColor": "#ed7b00",
+    "secondaryColor": "#fc8123",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.18.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Lifesteal",
+        "BoxPvP",
+        "And More!"
+    ]
+}
